@@ -2,3 +2,22 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Ignore .docx files
+*.docx
+# Ignore .pptx files
+*.pptx
+# Ignore .xls and .xlsx files
+*.xls
+*.xlsx
+
+# Ignore .csv files
+*.csv
+# Ignore .rds Data
+*.rds
+
+# Ignore .docx files
+*.png
+*.sav
+*.odt
+*.pdf
